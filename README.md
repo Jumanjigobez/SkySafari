@@ -1,6 +1,3 @@
-# SkySafari
-
-SkySafari is a weather and location-based application designed to provide real-time weather data and geolocation insights. Built with React Native and powered by Expo, SkySafari ensures seamless functionality and a clean user interface for an enjoyable experience either online or offline 😍.
 
 # SkySafari
 

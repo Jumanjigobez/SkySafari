@@ -58,8 +58,8 @@
       "typedRoutes": true
     },
     "extra": {
-      "OPENWEATHER_API_KEY": "a3f953b3e62866a27d7b8232534d5e06",
-      "TOMORROW_API_KEY": "2RBWBe5SrVnyKmwkc5xgOAvkQbbwv2bt",
+      "OPENWEATHER_API_KEY": "YOUR API_KEY",
+      "TOMORROW_API_KEY": "YOUR API_KEY",
       "router": {
         "origin": false
       },

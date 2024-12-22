@@ -28,7 +28,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#1D71F2"
-      }
+      },
+      "package": "com.jumanji_dev.SkySafari"
     },
     "web": {
       "bundler": "metro",

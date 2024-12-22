@@ -3,7 +3,7 @@
 
 SkySafari is a weather and location-based application designed to provide real-time weather data and geolocation insights. Built with React Native and powered by Expo, SkySafari ensures seamless functionality and a clean user interface for an enjoyable experience either online or offline 😍.
 
-Download Now the APK via Releases
+Download Now the APK via Releases -> [v1.0](https://github.com/Jumanjigobez/SkySafari/releases/tag/1.0.0)
 
 ## Features
 

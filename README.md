@@ -21,25 +21,15 @@ Download Now the APK via Releases -> [v1.0](https://github.com/Jumanjigobez/SkyS
   - [OpenWeatherMap API](https://openweathermap.org/api) for geocoding city name.
 
 ## Screenshots
-  #DarkMode
-  ![dark1](https://github.com/user-attachments/assets/8efbd7d0-80bc-46ef-bb31-26071acf6067)  ![dark2](https://github.com/user-attachments/assets/6b5de51d-e677-44ec-b209-be6d0780ec2e)
-  ![dark3](https://github.com/user-attachments/assets/ac74761b-c20d-4bcb-9392-ee5514eb8ace)  ![dark4](https://github.com/user-attachments/assets/1366d37f-f7e4-4b11-85eb-71d3537fbe7d)
-
-  #LightMode
-  ![light1](https://github.com/user-attachments/assets/bf09e603-cb2d-4e2a-aa1c-d224e007e762)  ![light2](https://github.com/user-attachments/assets/fe051458-a023-4ae0-955f-2f2d867558e0)
-![light3](https://github.com/user-attachments/assets/83e1599e-d754-4703-863b-d2724ceee7dc)  ![light4](https://github.com/user-attachments/assets/ce7b82f0-d833-4210-a55b-944e3c32ff8a)
-
-  #Home
+  # DarkMode
+  ![dark1](https://github.com/user-attachments/assets/8efbd7d0-80bc-46ef-bb31-26071acf6067) 
+  # LightMode
+  ![light1](https://github.com/user-attachments/assets/bf09e603-cb2d-4e2a-aa1c-d224e007e762) 
+  # Home
   ![home](https://github.com/user-attachments/assets/2a8c90aa-f695-4a75-a59b-17cc177cc304)
 
-  #Video Capture
-  
-
-https://github.com/user-attachments/assets/e2246475-6378-4179-a888-31071321981a
-
-
-
-
+  # Video Capture
+  https://github.com/user-attachments/assets/e2246475-6378-4179-a888-31071321981a
 
 
 ## Installation
